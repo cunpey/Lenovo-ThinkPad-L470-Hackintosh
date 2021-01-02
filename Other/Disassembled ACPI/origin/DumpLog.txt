@@ -1,0 +1,156 @@
+67:273  0:066  Found BIOS RSDP at F0140
+67:273  0:000  Printing ACPI tables from RSDP F0140 ...
+67:273  0:000   F0140: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+67:273  0:000    (Xsdt: DB5C4188, Rsdt: DB5C40C4)
+67:273  0:000    DB5C4188: 'XSDT', 'TP-R0G', Rev: 1, Len: 228
+67:273  0:000    DB5C40C4: 'RSDT', 'TP-R0G', Rev: 1, Len: 132
+67:273  0:000    Tables in Xsdt: 24
+67:273  0:000    0. DB5F7000: 'FACP', 'TP-R0G', Rev: 5, Len: 244
+67:273  0:000        (Dsdt: DB5D3000, Facs: DB547000, XDsdt: DB5D3000, XFacs: 0)
+67:273  0:000        DB5D3000: 'DSDT', 'SKL', Rev: 2, Len: 127964
+67:275  0:002        DB547000: 'FACS', Ver: 2, Len: 64
+67:275  0:000    1. DB55C000: 'UEFI', 'TP-R0G', Rev: 1, Len: 66
+67:275  0:000    2. DB5F9000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12853
+67:275  0:000    3. DB5F8000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+67:275  0:000    4. DB5F6000: 'HPET', 'TP-R0G', Rev: 1, Len: 56
+67:275  0:000    5. DB5F5000: 'APIC', 'TP-R0G', Rev: 3, Len: 188
+67:275  0:000    6. DB5F4000: 'MCFG', 'TP-R0G', Rev: 1, Len: 60
+67:275  0:000    7. DB5F3000: 'ECDT', 'TP-R0G', Rev: 1, Len: 83
+67:275  0:000    8. DB5D1000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5945
+67:275  0:000    9. DB5D0000: 'BOOT', 'TP-R0G', Rev: 1, Len: 40
+67:275  0:000    10. DB5CF000: 'BATB', 'TP-R0G', Rev: 2, Len: 74
+67:275  0:000    11. DB5CE000: 'SLIC', 'TP-R0G', Rev: 1, Len: 374
+67:275  0:000    12. DB5CD000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3806
+67:275  0:000    13. DB5CC000: 'SSDT', 'CtdpB', Rev: 2, Len: 1293
+67:275  0:000    14. DB5CB000: 'WSMT', 'TP-R0G', Rev: 1, Len: 40
+67:275  0:000    15. DB5CA000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+67:275  0:000    16. DB5C9000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1221
+67:275  0:000    17. DB5C8000: 'DBGP', 'TP-R0G', Rev: 1, Len: 52
+67:275  0:000    18. DB5C7000: 'DBG2', 'TP-R0G', Rev: 0, Len: 84
+67:275  0:000    19. DB5C6000: 'MSDM', 'TP-R0G', Rev: 3, Len: 85
+67:275  0:000    20. DB5C5000: 'DMAR', 'TP-R0G', Rev: 1, Len: 168
+67:275  0:000    21. DB5FD000: 'ASF!', 'TP-R0G', Rev: 32, Len: 160
+67:275  0:000    22. DB5C3000: 'FPDT', 'TP-R0G', Rev: 1, Len: 68
+67:275  0:000    23. DB545000: 'UEFI', 'TP-R0G', Rev: 1, Len: 298
+67:275  0:000    Tables in Rsdt: 24
+67:275  0:000    0. DB5F7000: 'FACP', 'TP-R0G', Rev: 5, Len: 244
+67:275  0:000        (Dsdt: DB5D3000, Facs: DB547000, XDsdt: DB5D3000, XFacs: 0)
+67:275  0:000        DB5D3000: 'DSDT', 'SKL', Rev: 2, Len: 127964
+67:277  0:002        DB547000: 'FACS', Ver: 2, Len: 64
+67:277  0:000    1. DB55C000: 'UEFI', 'TP-R0G', Rev: 1, Len: 66
+67:277  0:000    2. DB5F9000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12853
+67:277  0:000    3. DB5F8000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+67:277  0:000    4. DB5F6000: 'HPET', 'TP-R0G', Rev: 1, Len: 56
+67:277  0:000    5. DB5F5000: 'APIC', 'TP-R0G', Rev: 3, Len: 188
+67:277  0:000    6. DB5F4000: 'MCFG', 'TP-R0G', Rev: 1, Len: 60
+67:277  0:000    7. DB5F3000: 'ECDT', 'TP-R0G', Rev: 1, Len: 83
+67:277  0:000    8. DB5D1000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5945
+67:277  0:000    9. DB5D0000: 'BOOT', 'TP-R0G', Rev: 1, Len: 40
+67:277  0:000    10. DB5CF000: 'BATB', 'TP-R0G', Rev: 2, Len: 74
+67:277  0:000    11. DB5CE000: 'SLIC', 'TP-R0G', Rev: 1, Len: 374
+67:277  0:000    12. DB5CD000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3806
+67:277  0:000    13. DB5CC000: 'SSDT', 'CtdpB', Rev: 2, Len: 1293
+67:277  0:000    14. DB5CB000: 'WSMT', 'TP-R0G', Rev: 1, Len: 40
+67:277  0:000    15. DB5CA000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+67:277  0:000    16. DB5C9000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1221
+67:277  0:000    17. DB5C8000: 'DBGP', 'TP-R0G', Rev: 1, Len: 52
+67:277  0:000    18. DB5C7000: 'DBG2', 'TP-R0G', Rev: 0, Len: 84
+67:277  0:000    19. DB5C6000: 'MSDM', 'TP-R0G', Rev: 3, Len: 85
+67:277  0:000    20. DB5C5000: 'DMAR', 'TP-R0G', Rev: 1, Len: 168
+67:277  0:000    21. DB5FD000: 'ASF!', 'TP-R0G', Rev: 32, Len: 160
+67:277  0:000    22. DB5C3000: 'FPDT', 'TP-R0G', Rev: 1, Len: 68
+67:277  0:000    23. DB545000: 'UEFI', 'TP-R0G', Rev: 1, Len: 298
+67:277  0:000  Found UEFI Acpi 2.0 RSDP at DB5FE014
+67:277  0:000  Saving ACPI tables from RSDP DB5FE014 to EFI\CLOVER\ACPI\origin ...
+67:277  0:000   DB5FE014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+67:347  0:070    (Xsdt: DB5C4188, Rsdt: DB5C40C4)
+67:347  0:000    DB5C4188: 'XSDT', 'TP-R0G', Rev: 1, Len: 228 -> XSDT.aml
+67:413  0:066    DB5C40C4: 'RSDT', 'TP-R0G', Rev: 1, Len: 132 -> RSDT.aml
+67:480  0:066    Tables in Xsdt: 24
+67:480  0:000    0. DB5F7000: 'FACP', 'TP-R0G', Rev: 5, Len: 244
+67:480  0:000        (Dsdt: DB5D3000, Facs: DB547000, XDsdt: DB5D3000, XFacs: 0)
+67:480  0:000        DB5D3000: 'DSDT', 'SKL', Rev: 2, Len: 127964
+67:482  0:002        DB547000: 'FACS', Ver: 2, Len: 64
+67:482  0:000    1. DB55C000: 'UEFI', 'TP-R0G', Rev: 1, Len: 66
+67:482  0:000    2. DB5F9000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12853
+67:482  0:000    3. DB5F8000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+67:482  0:000    4. DB5F6000: 'HPET', 'TP-R0G', Rev: 1, Len: 56
+67:482  0:000    5. DB5F5000: 'APIC', 'TP-R0G', Rev: 3, Len: 188
+67:482  0:000    6. DB5F4000: 'MCFG', 'TP-R0G', Rev: 1, Len: 60
+67:482  0:000    7. DB5F3000: 'ECDT', 'TP-R0G', Rev: 1, Len: 83
+67:482  0:000    8. DB5D1000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5945
+67:482  0:000    9. DB5D0000: 'BOOT', 'TP-R0G', Rev: 1, Len: 40
+67:482  0:000    10. DB5CF000: 'BATB', 'TP-R0G', Rev: 2, Len: 74
+67:482  0:000    11. DB5CE000: 'SLIC', 'TP-R0G', Rev: 1, Len: 374
+67:482  0:000    12. DB5CD000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3806
+67:482  0:000    13. DB5CC000: 'SSDT', 'CtdpB', Rev: 2, Len: 1293
+67:482  0:000    14. DB5CB000: 'WSMT', 'TP-R0G', Rev: 1, Len: 40
+67:482  0:000    15. DB5CA000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+67:482  0:000    16. DB5C9000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1221
+67:482  0:000    17. DB5C8000: 'DBGP', 'TP-R0G', Rev: 1, Len: 52
+67:482  0:000    18. DB5C7000: 'DBG2', 'TP-R0G', Rev: 0, Len: 84
+67:482  0:000    19. DB5C6000: 'MSDM', 'TP-R0G', Rev: 3, Len: 85
+67:482  0:000    20. DB5C5000: 'DMAR', 'TP-R0G', Rev: 1, Len: 168
+67:482  0:000    21. DB5FD000: 'ASF!', 'TP-R0G', Rev: 32, Len: 160
+67:482  0:000    22. DB5C3000: 'FPDT', 'TP-R0G', Rev: 1, Len: 68
+67:482  0:000    23. DB545000: 'UEFI', 'TP-R0G', Rev: 1, Len: 298
+67:482  0:000    Tables in Rsdt: 24
+67:482  0:000    0. DB5F7000: 'FACP', 'TP-R0G', Rev: 5, Len: 244
+67:482  0:000        (Dsdt: DB5D3000, Facs: DB547000, XDsdt: DB5D3000, XFacs: 0)
+67:482  0:000        DB5D3000: 'DSDT', 'SKL', Rev: 2, Len: 127964
+67:484  0:002        DB547000: 'FACS', Ver: 2, Len: 64
+67:484  0:000    1. DB55C000: 'UEFI', 'TP-R0G', Rev: 1, Len: 66
+67:484  0:000    2. DB5F9000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12853
+67:484  0:000    3. DB5F8000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+67:484  0:000    4. DB5F6000: 'HPET', 'TP-R0G', Rev: 1, Len: 56
+67:484  0:000    5. DB5F5000: 'APIC', 'TP-R0G', Rev: 3, Len: 188
+67:484  0:000    6. DB5F4000: 'MCFG', 'TP-R0G', Rev: 1, Len: 60
+67:484  0:000    7. DB5F3000: 'ECDT', 'TP-R0G', Rev: 1, Len: 83
+67:484  0:000    8. DB5D1000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5945
+67:484  0:000    9. DB5D0000: 'BOOT', 'TP-R0G', Rev: 1, Len: 40
+67:484  0:000    10. DB5CF000: 'BATB', 'TP-R0G', Rev: 2, Len: 74
+67:484  0:000    11. DB5CE000: 'SLIC', 'TP-R0G', Rev: 1, Len: 374
+67:484  0:000    12. DB5CD000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3806
+67:484  0:000    13. DB5CC000: 'SSDT', 'CtdpB', Rev: 2, Len: 1293
+67:484  0:000    14. DB5CB000: 'WSMT', 'TP-R0G', Rev: 1, Len: 40
+67:484  0:000    15. DB5CA000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+67:484  0:000    16. DB5C9000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1221
+67:484  0:000    17. DB5C8000: 'DBGP', 'TP-R0G', Rev: 1, Len: 52
+67:484  0:000    18. DB5C7000: 'DBG2', 'TP-R0G', Rev: 0, Len: 84
+67:484  0:000    19. DB5C6000: 'MSDM', 'TP-R0G', Rev: 3, Len: 85
+67:484  0:000    20. DB5C5000: 'DMAR', 'TP-R0G', Rev: 1, Len: 168
+67:484  0:000    21. DB5FD000: 'ASF!', 'TP-R0G', Rev: 32, Len: 160
+67:484  0:000    22. DB5C3000: 'FPDT', 'TP-R0G', Rev: 1, Len: 68
+67:484  0:000    23. DB545000: 'UEFI', 'TP-R0G', Rev: 1, Len: 298
+67:484  0:000  Found UEFI Acpi 1.0 RSDP at DB5FE000
+67:484  0:000  Printing ACPI tables from RSDP DB5FE000 ...
+67:484  0:000   DB5FE000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+67:484  0:000    (Rsdt: DB5C4000)
+67:484  0:000    DB5C4000: 'RSDT', 'TP-R0G', Rev: 1, Len: 128
+67:484  0:000    Tables in Rsdt: 23
+67:484  0:000    0. DB5F7000: 'FACP', 'TP-R0G', Rev: 5, Len: 244
+67:484  0:000        (Dsdt: DB5D3000, Facs: DB547000, XDsdt: DB5D3000, XFacs: 0)
+67:484  0:000        DB5D3000: 'DSDT', 'SKL', Rev: 2, Len: 127964
+67:486  0:002        DB547000: 'FACS', Ver: 2, Len: 64
+67:486  0:000    1. DB55C000: 'UEFI', 'TP-R0G', Rev: 1, Len: 66
+67:486  0:000    2. DB5F9000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12853
+67:486  0:000    3. DB5F8000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+67:486  0:000    4. DB5F6000: 'HPET', 'TP-R0G', Rev: 1, Len: 56
+67:486  0:000    5. DB5F5000: 'APIC', 'TP-R0G', Rev: 3, Len: 188
+67:486  0:000    6. DB5F4000: 'MCFG', 'TP-R0G', Rev: 1, Len: 60
+67:486  0:000    7. DB5F3000: 'ECDT', 'TP-R0G', Rev: 1, Len: 83
+67:486  0:000    8. DB5D1000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5945
+67:486  0:000    9. DB5D0000: 'BOOT', 'TP-R0G', Rev: 1, Len: 40
+67:486  0:000    10. DB5CF000: 'BATB', 'TP-R0G', Rev: 2, Len: 74
+67:486  0:000    11. DB5CD000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3806
+67:486  0:000    12. DB5CC000: 'SSDT', 'CtdpB', Rev: 2, Len: 1293
+67:486  0:000    13. DB5CB000: 'WSMT', 'TP-R0G', Rev: 1, Len: 40
+67:486  0:000    14. DB5CA000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+67:486  0:000    15. DB5C9000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1221
+67:486  0:000    16. DB5C8000: 'DBGP', 'TP-R0G', Rev: 1, Len: 52
+67:486  0:000    17. DB5C7000: 'DBG2', 'TP-R0G', Rev: 0, Len: 84
+67:486  0:000    18. DB5C6000: 'MSDM', 'TP-R0G', Rev: 3, Len: 85
+67:486  0:000    19. DB5C5000: 'DMAR', 'TP-R0G', Rev: 1, Len: 168
+67:486  0:000    20. DB5FD000: 'ASF!', 'TP-R0G', Rev: 32, Len: 160
+67:486  0:000    21. DB5C3000: 'FPDT', 'TP-R0G', Rev: 1, Len: 68
+67:486  0:000    22. DB545000: 'UEFI', 'TP-R0G', Rev: 1, Len: 298
