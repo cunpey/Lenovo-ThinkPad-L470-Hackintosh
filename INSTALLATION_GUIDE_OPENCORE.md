@@ -30,6 +30,14 @@ I have follow this Guide and use OpenCore Premade EFI Folders :
 
 https://www.olarila.com/topic/8918-opencore-vanilla-guide-step-by-step-full-dsdt-patched-or-ssdt/
 
-## Enable Backlight Control [OpenCore]
+## Patching LAPTOP DSDT/SSDTs
 
-https://www.elitemacx86.com/threads/how-to-enable-backlight-control-on-laptops-clover-opencore.182/
+https://github.com/RehabMan/Laptop-DSDT-Patch
+
+## Enable Battery Status
+
+http://www.tonymacx86.com/yosemite-laptop-support/116102-guide-how-patch-dsdt-working-battery-status.html
+
+## Enable Backlight Control
+
+http://www.tonymacx86.com/yosemite-laptop-support/152659-patching-dsdt-ssdt-laptop-backlight-control.html
