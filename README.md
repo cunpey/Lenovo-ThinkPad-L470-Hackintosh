@@ -5,17 +5,30 @@
 # Lenovo ThinkPad L470 ( 20J5S2M800 ) Hackintosh
 
 [![ThinkPad](https://img.shields.io/badge/ThinkPad-L470-brightgreen)](https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ThinkPad_X230.pdf)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.6.4-brightgreen.svg)](https://github.com/acidanthera/OpenCorePkg/releases/latest)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.6.5-brightgreen.svg)](https://github.com/acidanthera/OpenCorePkg/releases/latest)
 [![MacOS Catalina](https://img.shields.io/badge/macOS-10.15.7-brightgreen.svg)](https://www.apple.com/macos/catalina/)
+[![OpenCore](https://img.shields.io/badge/Status-Work%20In%20Progress-brightgreen.svg)](https://github.com/acidanthera/OpenCorePkg/releases/latest)
 
 DISCLAIMER: Read the entire README before you start. I am not responsible for any damages you may cause.
 
 Goal of this repo is to run Hackintosh on Lenovo ThinkPad L470 (20J5S2M800) Laptop using OpenCore.
 
-**Status: Work In Progress**
+> ## Update
+
+##### Recent | [Changelog Archive](https://github.com/cunpey/Lenovo-ThinkPad-L470-Hackintosh/blob/main/10.15.7/README.md)
+
+> ### 2021-1-7
+
+#### Changed
+
+- OC to 0.6.5 and upgraded various Acidanthera kexts
+- Update DSDT with patch to fix Fn key function
+
+#
+
 | MacOS (Currently Catalina `10.15.7` ) working on ThinkPad L470 |
-| :-----------------------------------------: |
-| ![Catalina 10.15.7](10.15.7/Screenshot.png) |
+| :------------------------------------------------------------: |
+|          ![Catalina 10.15.7](10.15.7/Screenshot.png)           |
 
 ## OpenCore Installation Guide
 
